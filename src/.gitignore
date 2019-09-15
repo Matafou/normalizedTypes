@@ -1,0 +1,6 @@
+_Coqproject
+Makefile
+*.cache
+*.d
+*.glob
+Makefile.conf
